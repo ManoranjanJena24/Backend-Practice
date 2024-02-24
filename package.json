@@ -1,0 +1,24 @@
+{
+  "name": "backend-practice",
+  "version": "1.0.0",
+  "description": "Node Js Backend Practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server ": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManoranjanJena24/Backend-Practice.git"
+  },
+  "author": "Manoranjan Jena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManoranjanJena24/Backend-Practice/issues"
+  },
+  "homepage": "https://github.com/ManoranjanJena24/Backend-Practice#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
